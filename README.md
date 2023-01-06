@@ -7,7 +7,7 @@ To use this website, the user will use the search criteria by typing in one or m
 
 ![Alt text](Screenshots/1.PNG)
 
-If the information that the user type in the search criteria doesn't exist, the following result will be returned: 
+If the information that the user types in the search criteria doesn't exist, the following result will be returned: 
 ![Alt text](Screenshots/2.PNG)
 
 ## Summary:
